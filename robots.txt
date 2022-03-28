@@ -1,0 +1,4 @@
+Sitemap: http://precisionweb.com/sitemap.xml
+
+User-agent: *
+Disallow: 
